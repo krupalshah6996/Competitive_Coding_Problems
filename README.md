@@ -7,3 +7,5 @@ This repository contains several competitive coding problems which are listed as
 4. Reorganize String: https://leetcode.com/problems/reorganize-string/
 5. Jump Game: https://leetcode.com/problems/jump-game/
 6. Jump Game 2: https://leetcode.com/problems/jump-game-ii/
+7. Word Break: https://leetcode.com/problems/word-break/
+8. Maximum Product Subarray: https://leetcode.com/problems/maximum-product-subarray/
