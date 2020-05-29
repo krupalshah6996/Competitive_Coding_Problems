@@ -9,3 +9,4 @@ This repository contains several competitive coding problems which are listed as
 6. Jump Game 2: https://leetcode.com/problems/jump-game-ii/
 7. Word Break: https://leetcode.com/problems/word-break/
 8. Maximum Product Subarray: https://leetcode.com/problems/maximum-product-subarray/
+9. Symmetric Tree: https://leetcode.com/problems/symmetric-tree/
